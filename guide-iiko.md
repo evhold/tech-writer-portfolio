@@ -22,7 +22,7 @@
 
 3. При помощи стрелок настроить в группе "Меню сайта" последовательность групп и блюд, которая должна быть на сайте.
 
-![](/tech-writer-portfolio/blob/main/images/guide-iiko-2.png)
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-iiko-2.png)
 
 ## Описания и фотографии
 
@@ -41,7 +41,7 @@
 
 6.  Повторить для остальных блюд.
 
-![](/tech-writer-portfolio/blob/main/images/guide-iiko-3.png)
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-iiko-3.png)
 
 Таким же образом добавить описание и фотографии для всех блюд в "Меню доставки". 
 
@@ -51,12 +51,12 @@
 
 1. Нажать кнопку "Выгрузить".
 
-![](/tech-writer-portfolio/blob/main/images/guide-iiko-4.png)
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-iiko-4.png)
 
 2. Перейти во вкладку "Состояния подключения".
 
-![](/tech-writer-portfolio/blob/main/images/guide-iiko-5.png)
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-iiko-5.png)
 
 3. Нажать кнопку "Обновить".
 
-![](/tech-writer-portfolio/blob/main/images/guide-iiko-6.png)
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-iiko-6.png)
