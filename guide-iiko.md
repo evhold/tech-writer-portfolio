@@ -16,13 +16,13 @@
 
 2. Выгрузить в неё группы с блюдами для сайта и приложения.
 
-![](/tech-writer-portfolio/images/guide-iiko-1.png)
+![](/tech-writer-portfolio/blob/main/images/guide-iiko-1.png)
 
 > Чтобы не нарушить работу действующего сайта, рекомендуем именно выгрузить повторно группы с блюдами, а не перемещать блюда, которые уже были в выгрузке
 
 3. При помощи стрелок настроить в группе "Меню сайта" последовательность групп и блюд, которая должна быть на сайте.
 
-![](/tech-writer-portfolio/images/guide-iiko-2.png) 
+![](/tech-writer-portfolio/blob/main/images/guide-iiko-2.png)
 
 ## Описания и фотографии
 
@@ -41,7 +41,7 @@
 
 6.  Повторить для остальных блюд.
 
-![](/tech-writer-portfolio/images/guide-iiko-3.png)
+![](/tech-writer-portfolio/blob/main/images/guide-iiko-3.png)
 
 Таким же образом добавить описание и фотографии для всех блюд в "Меню доставки". 
 
@@ -51,12 +51,12 @@
 
 1. Нажать кнопку "Выгрузить".
 
-![](/tech-writer-portfolio/images/guide-iiko-4.png)
+![](/tech-writer-portfolio/blob/main/images/guide-iiko-4.png)
 
 2. Перейти во вкладку "Состояния подключения".
 
-![](/tech-writer-portfolio/images/guide-iiko-5.png) 
+![](/tech-writer-portfolio/blob/main/images/guide-iiko-5.png)
 
 3. Нажать кнопку "Обновить".
 
-![](/tech-writer-portfolio/images/guide-iiko-6.png)  
+![](/tech-writer-portfolio/blob/main/images/guide-iiko-6.png)
