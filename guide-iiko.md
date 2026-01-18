@@ -16,7 +16,7 @@
 
 2. Выгрузить в неё группы с блюдами для сайта и приложения.
 
-![](/tech-writer-portfolio/blob/main/images/guide-iiko-1.png)
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-iiko-1.png)
 
 > Чтобы не нарушить работу действующего сайта, рекомендуем именно выгрузить повторно группы с блюдами, а не перемещать блюда, которые уже были в выгрузке
 
