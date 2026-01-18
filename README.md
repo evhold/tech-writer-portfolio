@@ -1,8 +1,12 @@
 # Примеры работ
 
-[Пример инструкции](https://github.com/evhold/tech-writer-portfolio/blob/main/guide-iiko.md)
+## Примеры инструкций
 
-Пример шаблона документа
+[Настройка меню в IIKO](https://github.com/evhold/tech-writer-portfolio/blob/main/guide-iiko.md)
+
+[Настройка электронных чеков в IIKO](https://github.com/evhold/tech-writer-portfolio/blob/main/guide-e-receipts.md)
+
+## Примеры шаблонов документов
 
 Структура базы знаний
 
