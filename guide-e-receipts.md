@@ -12,7 +12,7 @@
 
 Пример отображения
 
-ФОТО
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-e-receipts-1.png)
 
 Если гость выбирает электронный чек, то приложение передаёт в IIKO адрес электронной почты гостя и параметр: 
 
@@ -46,15 +46,15 @@
 
 1. Перейти в раздел "Администрирование", вкладка "Настройки торгового предприятия".
 
-ФОТО
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-e-receipts-2.png)
 
 2. Нажать ЛКМ на названии отделения, для которого производится настройка. Отделениями называются зоны в ресторане – бар, пицца, суши и т. д.
 
-ФОТО
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-e-receipts-3.png)
 
 3. В поле "Способ отправки чека" выбрать вариант "Запрос при оплате".
 
-ФОТО
+![](https://github.com/evhold/tech-writer-portfolio/blob/main/images/guide-e-receipts-4.png)
 
 4. Нажать кнопку "Сохранить изменения".
 
