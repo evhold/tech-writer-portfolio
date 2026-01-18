@@ -1,8 +1,8 @@
 # Примеры работ
 
-Шаблоны документов
+[Пример инструкции](https://github.com/evhold/tech-writer-portfolio/blob/main/guide-iiko.md)
 
-Инструкции
+Пример шаблона документа
 
 Структура базы знаний
 
