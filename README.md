@@ -4,7 +4,7 @@
 
 ## Примеры инструкций
 
-[Настройка меню в IIKO](https://github.com/evhold/tech-writer-portfolio/blob/main/guide-iiko.md)
+[Настройка меню в IIKO](https://github.com/evhold/tech-writer-portfolio/blob/main/guide-menu-iiko.md)
 
 [Настройка электронных чеков в IIKO](https://github.com/evhold/tech-writer-portfolio/blob/main/guide-e-receipts.md)
 
