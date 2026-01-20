@@ -10,7 +10,7 @@
 
 ## Примеры шаблонов документов
 
-[Release Notes] В процессе
+[Release Notes](https://github.com/evhold/tech-writer-portfolio/blob/main/template-release-notes.md)
 
 [Новые настройки внешнего вида сайта] В процессе
 
