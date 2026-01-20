@@ -10,11 +10,8 @@
 
 ## Примеры шаблонов документов
 
-[Release Notes](https://github.com/evhold/tech-writer-portfolio/blob/main/template-release-notes.md)
+[Шаблон Release Notes](https://github.com/evhold/tech-writer-portfolio/blob/main/template-release-notes.md)
 
-[Новые настройки внешнего вида сайта] В процессе
-
-[Настройка другого нововведения] В процессе
-
+[Шаблон инструкции по настройке новой фичи](https://github.com/evhold/tech-writer-portfolio/blob/main/template-guide-new-feature.md)
 
 
